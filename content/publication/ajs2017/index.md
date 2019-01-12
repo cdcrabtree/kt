@@ -18,11 +18,11 @@ authors = ["Kiyoteru Tsutsui"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "American Journal of Sociology"
+publication = "_American Journal of Sociology_ 122:1050-1103"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "This article examines the mutually constitutive relationship between global institutions and local social movements. First, drawing on social movement theories and the world society approach, it develops a theoretical framework for understanding the transformative impact of global human rights on local activism. Using interviews and archival and other data sources, the empirical analysis demonstrates that global human rights galvanized (1) the politically dormant Ainu into a thriving indigenous rights movement, (2) the politically active but factious resident Koreans into a more united and successful social movement, and (3) an established Burakumin movement into an international human rights organization. The fundamental similarity of rising activism for all three groups supports the world society thesis, but in-depth examination of concrete mechanisms unpacks complex global-local interplay and reveals intranational diversity in the impact of global human rights. Second, drawing on organizational institutionalism, I examine how local activism feeds back to global institutions. The empirical analysis details how local actors consolidate and expand global human rights."
+abstract = ""
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
@@ -49,7 +49,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.journals.uchicago.edu/doi/abs/10.1086/689910"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -57,7 +57,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://www.journals.uchicago.edu/doi/abs/10.1086/689910"
+url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
