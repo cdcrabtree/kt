@@ -60,16 +60,15 @@ enableGitInfo = false
   organizations = [ { name = "University of Michigan", url = "https://umich.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "tsutsui.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "tsutsui_2.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "tsutsui@umich.edu"
   address = "Room 3115 LSA Building, 500 S. State Street, Ann Arbor, MI 48109"
-#  office_hours = """
-#  Monday 10:00 to 13:00<br>
-#  Wednesday 09:00 to 10:00<br>
-#  Otherwise email to book an appointment
-#  """
+  office_hours = """
+  Someday 10:00 to 13:00<br>
+  Otherwise email to book an appointment
+  """
 #  phone = "888 888 88 88"
 #  skype = "echo123"
 #  telegram = ""
