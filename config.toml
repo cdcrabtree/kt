@@ -65,10 +65,10 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "tsutsui@umich.edu"
   address = "Room 3115 LSA Building, 500 S. State Street, Ann Arbor, MI 48109"
-  office_hours = """
-  Someday 10:00 to 13:00<br>
-  Otherwise email to book an appointment
-  """
+  #office_hours = """
+  #Someday 10:00 to 13:00<br>
+  #Otherwise email to book an appointment
+  #"""
 #  phone = "888 888 88 88"
 #  skype = "echo123"
 #  telegram = ""
