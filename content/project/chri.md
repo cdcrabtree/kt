@@ -1,5 +1,5 @@
 +++
-title = "Chri"
+title = "CHRI"
 date = 2019-04-25T22:55:45-04:00
 draft = false
 
