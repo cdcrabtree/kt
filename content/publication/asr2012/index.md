@@ -1,6 +1,6 @@
 +++
 title = "Globalization and Commitment in Corporate Social Responsibility: Cross-National Analyses of Institutional and Political-Economy Effects"
-date = 2017-01-01T00:00:00
+date = 2012-01-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
