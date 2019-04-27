@@ -10,10 +10,11 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
+    "Global and Transnational Sociology",
+    "Human Rights and International Law",
+    "Politics and Social Change",
     "Comparative and Historical Approaches",
-    "International Sociology",
-    "Law, Crime, and Deviance",
-    "Politics and Social Change"
+    "Japanese Society"
   ]
 
 # List your qualifications (such as academic degrees).

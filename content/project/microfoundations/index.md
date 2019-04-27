@@ -1,5 +1,5 @@
 +++
-title = "Examining the microfoundations of human rights support"
+title = "The microfoundations of human rights support"
 date = 2019-04-25T22:55:58-04:00
 draft = false
 
