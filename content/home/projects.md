@@ -45,6 +45,14 @@ filter_default = 0
   tag = "human rights"
 
 [[filter]]
+  name = "Minority Rights"
+  tag = "minority rights"
+
+[[filter]]
+  name = "Constitutions"
+  tag = "constitutions"
+
+[[filter]]
   name = "HROs"
   tag = "hros"
 
