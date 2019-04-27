@@ -57,7 +57,7 @@ filter_default = 0
   tag = "hros"
 
 [[filter]]
-  name = "Micro-foundations"
+  name = "Microfoundations"
   tag = "micro-foundations"
 
 +++
