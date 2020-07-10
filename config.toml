@@ -57,14 +57,14 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Michigan", url = "https://umich.edu/" } ]
+  organizations = [ { name = "Stanford University", url = "https://stanford.edu/" }, { name = "teru@stanford.edu", url = "mailto:teru@stanford.edu" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "tsutsui_2.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "tsutsui@umich.edu"
-  address = "Room 3115 LSA Building, 500 S. State Street, Ann Arbor, MI 48109"
+  email = "teru@stanford.edu"
+  address = "Department of Sociology, Stanford University, Bldg. 120, Stanford, CA 94305"
   #office_hours = """
   #Someday 10:00 to 13:00<br>
   #Otherwise email to book an appointment
@@ -98,15 +98,15 @@ enableGitInfo = false
   #   3: OpenStreetMap (Mapbox)
   map = 2
   map_api_key = ""
-  latitude = "42.276333"
-  longitude = "-83.741255"
+  latitude = "37.4283048"
+  longitude = "-122.1713161"
   zoom = 15
 
   # SITE SETUP
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "forest"
+  color_theme = "default"
   # Enable users to switch between day and night mode?
   day_night = true
 
