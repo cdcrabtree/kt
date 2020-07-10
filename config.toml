@@ -57,7 +57,7 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Michigan", url = "https://umich.edu/" } ]
+  organizations = [ { name = "Stanford University", url = "https://stanford.edu/" }, { name = "teru@stanford.edu", url = "mailto:teru@stanford.edu" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "tsutsui_2.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -106,7 +106,7 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "forest"
+  color_theme = "strawberry"
   # Enable users to switch between day and night mode?
   day_night = true
 
