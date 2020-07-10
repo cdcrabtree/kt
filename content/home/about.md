@@ -42,4 +42,4 @@ weight = 1
 
 # Biography
 
-Kiyoteru Tsutsui is Professor of Sociology, Director of [the Center for Japanese Studies](https://ii.umich.edu/cjs) and Director of [the Donia Human Rights Center](https://www.ii.umich.edu/humanrights) at the University of Michigan, Ann Arbor.
+Kiyoteru Tsutsui is Henri H. and Tomoye Takahashi Professor and Senior Fellow in Japanese Studies at the [Shorenstein APARC](https://aparc.fsi.stanford.edu/) at Stanford University, where he is also [Director of the Japan Program](https://aparc.fsi.stanford.edu/japan/content/new-jp-program-about-page), a Senior Fellow of the [Freeman Spogli Institute for International Studies](https://fsi.stanford.edu/), and a Professor of [Sociology](https://sociology.stanford.edu/).
