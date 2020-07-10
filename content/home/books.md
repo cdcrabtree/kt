@@ -19,11 +19,13 @@ weight = 10
  
    <div style = "float:left; padding-right: 20px">![Rights Make Might](https://xenodochial-austin-110db4.netlify.com/img/tsutsui.jpg)</div> Since the late 1970s, the three most salient minority groups in Japan - the politically dormant Ainu, the active but unsuccessful Koreans, and the former outcaste group of Burakumin - have all expanded their activism despite the unfavorable domestic political environment. In Rights Make Might, Kiyoteru Tsutsui examines why, and finds an answer in the galvanizing effects of global human rights on local social movements. Tsutsui chronicles the transformative impact of global human rights ideas and institutions on minority activists, which changed their understandings about their standing in Japanese society and propelled them to new international venues for political claim making. The global forces also changed the public perception and political calculus in Japan over time, catalyzing substantial gains for their movements. Having benefited from global human rights, all three groups repaid their debt by contributing to the consolidation and expansion of human rights principles and instruments outside of Japan. Drawing on interviews and archival data, Rights Make Might offers a rich historical comparative analysis of the relationship between international human rights and local politics that contributes to our understanding of international norms and institutions, social movements, human rights, ethnoracial politics, and Japanese society.
 
-   _2019 Distinguished Contribution to Scholarship Book Award from the American Sociological Association section on Political Sociology_ 
+---
 
-   _2019 Gordon Hirabayashi Human Rights Book Award from the American Sociological Association section on Sociology of Human Rights_ 
+   - _2019 Distinguished Contribution to Scholarship Book Award from the American Sociological Association section on Political Sociology_ 
 
-   _2019 Most Outstanding Asia/Transnational Book Award from the American Sociological Association section on Asia and Asian America_
+   - _2019 Gordon Hirabayashi Human Rights Book Award from the American Sociological Association section on Sociology of Human Rights_ 
+
+   - _2019 Most Outstanding Asia/Transnational Book Award from the American Sociological Association section on Asia and Asian America_
   
 
 [_Corporate Social Responsibility in a Globalizing World_](http://www.cambridge.org/US/academic/subjects/sociology/political-sociology/corporate-social-responsibility-globalizing-world#contentsTabAnchor)
