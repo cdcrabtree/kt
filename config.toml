@@ -63,8 +63,8 @@ enableGitInfo = false
   avatar = "tsutsui_2.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "tsutsui@umich.edu"
-  address = "Room 3115 LSA Building, 500 S. State Street, Ann Arbor, MI 48109"
+  email = "teru@stanford.edu"
+  address = "Department of Sociology, Stanford University, Bldg. 120, Stanford, CA 94305"
   #office_hours = """
   #Someday 10:00 to 13:00<br>
   #Otherwise email to book an appointment
